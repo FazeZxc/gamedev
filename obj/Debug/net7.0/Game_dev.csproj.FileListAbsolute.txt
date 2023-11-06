@@ -1,0 +1,14 @@
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\bin\Debug\net7.0\Game_dev.exe
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\bin\Debug\net7.0\Game_dev.deps.json
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\bin\Debug\net7.0\Game_dev.runtimeconfig.json
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\bin\Debug\net7.0\Game_dev.dll
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\bin\Debug\net7.0\Game_dev.pdb
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.AssemblyInfoInputs.cache
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.AssemblyInfo.cs
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.csproj.CoreCompileInputs.cache
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.dll
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\refint\Game_dev.dll
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.pdb
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\Game_dev.genruntimeconfig.cache
+C:\Users\abhin\OneDrive\Desktop\Documents\C lang\Game_dev\obj\Debug\net7.0\ref\Game_dev.dll
